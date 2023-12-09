@@ -1,0 +1,5 @@
+Person{userID='gregory01'| firstName='Oliver'| lastName='Gregory'| email='ogregory+teacher+academy@chalk.com'| role=Teacher}
+Person{userID='lloyd01'| firstName='Shelley'| lastName='Lloyd'| email='slloyd+teacher+academy@chalk.com'| role=Teacher}
+Person{userID='osbourne01'| firstName='Lee'| lastName='Osbourne'| email='lsobourne+teacher+academy@chalk.com'| role=Teacher}
+Person{userID='walton01'| firstName='Joesphine'| lastName='Walton'| email='jwalton+teacher+academy@chalk.com'| role=Teacher}
+Person{userID='fernandez01'| firstName='Inez'| lastName='Fernandez'| email='ifernandez+support+teacher+academy@chalk.com'| role=Teacher}
